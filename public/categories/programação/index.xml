@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programação on Emanuel D S Penha</title>
+    <link>/categories/programa%C3%A7%C3%A3o/</link>
+    <description>Recent content in Programação on Emanuel D S Penha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 07 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/programa%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>migrando para hugo</title>
+      <link>/post/migrando-para-hugo/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/migrando-para-hugo/</guid>
+      <description>configurando como pt-br
+https://discourse.gohugo.io/t/unable-to-change-universal-logo-and-setting-encoding-to-portuguese-pt-br/11729
+Editar
+http://www.mit.edu/~k2smith/post/getting-started/#language-and-translation
+config.toml
+[[menu.main]] name = &amp;ldquo;Home&amp;rdquo; url = &amp;ldquo;#about&amp;rdquo; weight = 1
+[[menu.main]] name = &amp;ldquo;Publicações&amp;rdquo; url = &amp;ldquo;#publications_selected&amp;rdquo; weight = 2
+[[menu.main]] name = &amp;ldquo;Posts&amp;rdquo; url = &amp;ldquo;#posts&amp;rdquo; weight = 3
+[[menu.main]] name = &amp;ldquo;Projetos&amp;rdquo; url = &amp;ldquo;#projects&amp;rdquo; weight = 4
+[[menu.main]] name = &amp;ldquo;Ensino&amp;rdquo; url = &amp;ldquo;#teaching&amp;rdquo; weight = 5
+[[menu.main]] name = &amp;ldquo;Contato&amp;rdquo; url = &amp;ldquo;#contact&amp;rdquo; weight = 6
+ Traduzir conteúdo ou títulos de content/home</description>
+    </item>
+    
+  </channel>
+</rss>

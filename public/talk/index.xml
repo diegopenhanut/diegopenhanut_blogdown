@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Emanuel D S Penha</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Emanuel D S Penha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eigengenes e Variantes Raras/Comuns em Fenótipos Complexos</title>
+      <link>/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0300</pubDate>
+      
+      <guid>/talk/example-talk/</guid>
+      <description>Apresentação feita em congresso sobre Nutrigenômica/nutrigenética na Paraíba, cidade de Patos. Aqui discuti o papel de variações comuns/raras e o conceito de Eigengenes em fenótipos complexos como obesidade, diabetes.
+É uma extensão de uma apresentação feita em um CB2 Journal Club na University of Alabama at Birmingham.</description>
+    </item>
+    
+  </channel>
+</rss>

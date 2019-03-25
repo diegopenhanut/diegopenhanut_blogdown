@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RDF on Emanuel D S Penha</title>
+    <link>/tags/rdf/</link>
+    <description>Recent content in RDF on Emanuel D S Penha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="/tags/rdf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Isomorphic semantic mapping of variant call format (VCF2RDF)</title>
+      <link>/project/vcf2rdf/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/project/vcf2rdf/</guid>
+      <description>Esse é um trabalho que desenvolvi enquanto estive nos EUA, logo após o mestrado.
+Isomorphic semantic mapping of variant call format (VCF2RDF).
+http://ibl.github.io/VCFr/
+https://www.ncbi.nlm.nih.gov/pubmed/27797761</description>
+    </item>
+    
+  </channel>
+</rss>

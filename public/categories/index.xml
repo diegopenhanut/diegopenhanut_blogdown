@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Emanuel D S Penha</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Emanuel D S Penha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>&amp;copy; 2018</copyright>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gear</title>
+      <link>/categories/gear/</link>
+      <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/gear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orientação</title>
+      <link>/categories/orienta%C3%A7%C3%A3o/</link>
+      <pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/orienta%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programação</title>
+      <link>/categories/programa%C3%A7%C3%A3o/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/programa%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

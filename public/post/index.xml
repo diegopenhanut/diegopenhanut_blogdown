@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Emanuel D S Penha</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Emanuel D S Penha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aula sobre uso de softwares para elaboração de material educativo</title>
+      <link>/post/aula-sobre-uso-de-software-para-elabora%C3%A7%C3%A3o-de-material-educativo/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/aula-sobre-uso-de-software-para-elabora%C3%A7%C3%A3o-de-material-educativo/</guid>
+      <description>Esses são os slides que elaborei para uma revisão/nivelamento antes do estágio de saúde coletiva. Algumas das atividades exigiam que os alunos elaborassem material gráficos como impressos, folders, flyers e coisas do gênero. Percebi que algumas coisas básicas acabavam sendo perguntadas com mais frequência, principalmente relacionado à quais programas podem ser usados e sobre como começar.
+Aparentemente, boa parte dos graduandos, apesar do uso intenso de WhatsApp/Instagram, não possuem habilidades mínimas nos referidos programas.</description>
+    </item>
+    
+    <item>
+      <title>migrando para hugo</title>
+      <link>/post/migrando-para-hugo/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/migrando-para-hugo/</guid>
+      <description>configurando como pt-br
+https://discourse.gohugo.io/t/unable-to-change-universal-logo-and-setting-encoding-to-portuguese-pt-br/11729
+Editar
+http://www.mit.edu/~k2smith/post/getting-started/#language-and-translation
+config.toml
+[[menu.main]] name = &amp;ldquo;Home&amp;rdquo; url = &amp;ldquo;#about&amp;rdquo; weight = 1
+[[menu.main]] name = &amp;ldquo;Publicações&amp;rdquo; url = &amp;ldquo;#publications_selected&amp;rdquo; weight = 2
+[[menu.main]] name = &amp;ldquo;Posts&amp;rdquo; url = &amp;ldquo;#posts&amp;rdquo; weight = 3
+[[menu.main]] name = &amp;ldquo;Projetos&amp;rdquo; url = &amp;ldquo;#projects&amp;rdquo; weight = 4
+[[menu.main]] name = &amp;ldquo;Ensino&amp;rdquo; url = &amp;ldquo;#teaching&amp;rdquo; weight = 5
+[[menu.main]] name = &amp;ldquo;Contato&amp;rdquo; url = &amp;ldquo;#contact&amp;rdquo; weight = 6
+ Traduzir conteúdo ou títulos de content/home</description>
+    </item>
+    
+    <item>
+      <title>Acer Cloudbook 11</title>
+      <link>/post/acer-cloudbook-11/</link>
+      <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/acer-cloudbook-11/</guid>
+      <description>Pensando na minha volta ao Brasil, comecei a procurar um substituto para o macbook air com o qual trabalho. Não tenho o que reclamar do case em alumínio, do teclado, do tempo de bateria. Enfim, o mac que uso é melhor do que tudo o que eu já usei a nível de notebooks.
+Mas várias pequenas coisas me aborrecem aqui e acolá. Os updates nem sempre saem como esperado. Sempre tem algo que acaba deixando de funcionar.</description>
+    </item>
+    
+    <item>
+      <title>Orientação de Especialização - Katweurya Santana</title>
+      <link>/post/orienta%C3%A7%C3%A3o-de-especializa%C3%A7%C3%A3o-katweurya-santana/</link>
+      <pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/orienta%C3%A7%C3%A3o-de-especializa%C3%A7%C3%A3o-katweurya-santana/</guid>
+      <description>Nesse semestre comecei a co-orientação do trabalho de Katweurya Santana sobre a percepção de profissionais de saúde sobre a implantação do e-SUS no município de Quixadá-CE. Esse é um trabalho pra conclusão de curso para Residência Integrada em Saúde, da Escola de Saúde Pública do Ceará, orientado por Ms Raquel Simões Monteiro.
+Sempre me interessei pela análise de conteúdo porque era uma maneira de quantificar o que se fala. A mim parece natural o processo de classificação em categorias com exclusividade e exaustividade.</description>
+    </item>
+    
+  </channel>
+</rss>
