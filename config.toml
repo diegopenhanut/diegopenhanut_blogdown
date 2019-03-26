@@ -305,4 +305,4 @@ enableGitInfo = false
   
   
 # Personal tweaks
-publishDir= "../diegopenhanut.github.io"
+#publishDir= "../diegopenhanut.github.io"
